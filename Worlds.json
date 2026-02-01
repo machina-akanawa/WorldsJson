@@ -1,0 +1,103 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": true,
+    "Categorys": [
+        {
+            "Category": "麻樹菜のワールド集",
+            "Worlds": [
+                {
+                    "ID": "wrld_00ba845a-601e-4ba0-9d09-e4fbc1da76ce",
+                    "Name": "Anyway, Purple Hides Us From Each Other",
+                    "RecommendedCapacity": 2,
+                    "Capacity": 4,
+                    "Description": "紫をテーマにした静かで小さな寝室。悲しげなLoFi HipHopが流れています。ビデオプレーヤー(キューリスト)、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_cd73746d-1920-43be-819f-ab1d779a7d31",
+                    "Name": "Breathe Out Of Black",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 14,
+                    "Description": "黒をテーマにしたアングラなパーティー会場。煽情的なDeep Houseが流れています。ビデオプレーヤー(キューリスト)、Justギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public",
+                }
+                {
+                    "ID": "wrld_94a0a1d7-4334-4b29-901e-37d1b2c61ffe",
+                    "Name": "Thou Shalt Not Worship, Thou Shalt Not Yellow",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 12,
+                    "Description": "黄色をテーマにした現代ヨーロッパの民家。考えごとや心の解放にぴったりのGhost Atlasというアーティストの曲が流れています。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public",
+                }
+                {
+                    "ID": "wrld_3ca50aca-be8e-429b-ae5d-00564d4d5bd6",
+                    "Name": "Inquire Of Yourself Whether You Deserve Pink",
+                    "RecommendedCapacity": 2,
+                    "Capacity": 6,
+                    "Description": "ピンクをテーマにした昼のVIPルーム。上品なドビュッシーのピアノ曲が流れています。ビデオプレーヤー(キューリスト)、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public",
+                }
+                {
+                    "ID": "wrld_bf01444d-baa5-44e7-8658-2aa58e68fa8f",
+                    "Name": "ヴィジュアル系を聴く部屋",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 32,
+                    "Description": "ヴィジュアル系バンドっぽい部屋。多種多様なヴィジュアル系バンドの曲を聴くことができます。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public",
+                }
+                {
+                    "ID": "wrld_3c37f278-9513-4f6c-a9c9-5e04eec6643c",
+                    "Name": "Return For Anyone Who Misunderstood That We Were One Under The Law Of Green",
+                    "RecommendedCapacity": 2,
+                    "Capacity": 4,
+                    "Description": "緑をテーマにしたコタツがある洋室。元気なLoFiが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public",
+                }
+                {
+                    "ID": "wrld_7eecd0c7-cf73-429c-907e-9f4b988609ef",
+                    "Name": "Sorry White",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 2,
+                    "Description": "白をテーマにした孤独の心象風景。寂しさに寄り添ってくれるヴィジュアル系や洋楽メタルが流れています。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "private",
+                }
+
+            ]
+        }
+    ]
+}
