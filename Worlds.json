@@ -3,7 +3,7 @@
     "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "麻樹菜のワールド集",
+            "Category": "麻樹菜のワールド集-Colors",
             "Worlds": [
                 {
                     "ID": "wrld_00ba845a-601e-4ba0-9d09-e4fbc1da76ce",
@@ -58,19 +58,6 @@
                     "ReleaseStatus": "public"
                 },
                 {
-                    "ID": "wrld_bf01444d-baa5-44e7-8658-2aa58e68fa8f",
-                    "Name": "ヴィジュアル系を聴く部屋",
-                    "RecommendedCapacity": 5,
-                    "Capacity": 32,
-                    "Description": "ヴィジュアル系バンドっぽい部屋。多種多様なヴィジュアル系バンドの曲を聴くことができます。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true,
-                        "iOS": false
-                    },
-                    "ReleaseStatus": "public"
-                },
-                {
                     "ID": "wrld_3c37f278-9513-4f6c-a9c9-5e04eec6643c",
                     "Name": "Return For Anyone Who Misunderstood That We Were One Under The Law Of Green",
                     "RecommendedCapacity": 2,
@@ -85,10 +72,41 @@
                 },
                 {
                     "ID": "wrld_7eecd0c7-cf73-429c-907e-9f4b988609ef",
-                    "Name": "Sorry White",
+                    "Name": "(WIP)Sorry White",
                     "RecommendedCapacity": 1,
                     "Capacity": 2,
                     "Description": "白をテーマにした孤独の心象風景。寂しさに寄り添ってくれるヴィジュアル系や洋楽メタルが流れています。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "private"
+                }
+            ]
+        },
+        {
+            "Category": "麻樹菜のワールド集-その他",
+            "Worlds": [
+                {
+                    "ID": "wrld_bf01444d-baa5-44e7-8658-2aa58e68fa8f",
+                    "Name": "ヴィジュアル系を聴く部屋",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 32,
+                    "Description": "ヴィジュアル系バンドっぽい部屋。多種多様なヴィジュアル系バンドの曲を聴くことができます。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_5461ae37-d5cd-407a-b72c-7afd0bbb7b15",
+                    "Name": "(WIP)こどもがいる家",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "子供部屋と廊下。可愛いLofi Future Bassが流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": true,
