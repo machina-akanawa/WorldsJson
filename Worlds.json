@@ -29,8 +29,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "public",
-                }
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_94a0a1d7-4334-4b29-901e-37d1b2c61ffe",
                     "Name": "Thou Shalt Not Worship, Thou Shalt Not Yellow",
@@ -42,8 +42,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "public",
-                }
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_3ca50aca-be8e-429b-ae5d-00564d4d5bd6",
                     "Name": "Inquire Of Yourself Whether You Deserve Pink",
@@ -55,8 +55,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "public",
-                }
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_bf01444d-baa5-44e7-8658-2aa58e68fa8f",
                     "Name": "ヴィジュアル系を聴く部屋",
@@ -68,8 +68,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "public",
-                }
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_3c37f278-9513-4f6c-a9c9-5e04eec6643c",
                     "Name": "Return For Anyone Who Misunderstood That We Were One Under The Law Of Green",
@@ -81,8 +81,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "public",
-                }
+                    "ReleaseStatus": "public"
+                },
                 {
                     "ID": "wrld_7eecd0c7-cf73-429c-907e-9f4b988609ef",
                     "Name": "Sorry White",
@@ -94,9 +94,8 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "private",
+                    "ReleaseStatus": "private"
                 }
-
             ]
         }
     ]
