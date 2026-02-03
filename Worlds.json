@@ -103,7 +103,7 @@
                 },
                 {
                     "ID": "wrld_5461ae37-d5cd-407a-b72c-7afd0bbb7b15",
-                    "Name": "(WIP)こどもがいる家",
+                    "Name": "こどもがいる家",
                     "RecommendedCapacity": 3,
                     "Capacity": 7,
                     "Description": "子供部屋と廊下。可愛いLofi Future Bassが流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
@@ -112,11 +112,12 @@
                         "Android": true,
                         "iOS": false
                     },
-                    "ReleaseStatus": "private"
+                    "ReleaseStatus": "public"
                 }
             ]
         }
     ]
 }
+
 
 
