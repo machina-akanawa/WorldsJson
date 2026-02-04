@@ -74,7 +74,7 @@
                     "ID": "wrld_7eecd0c7-cf73-429c-907e-9f4b988609ef",
                     "Name": "(WIP)Sorry White",
                     "RecommendedCapacity": 1,
-                    "Capacity": 2,
+                    "Capacity": 1,
                     "Description": "白をテーマにした孤独の心象風景。寂しさに寄り添ってくれるヴィジュアル系や洋楽メタルが流れています。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
                     "Platform": {
                         "PC": true,
@@ -118,6 +118,7 @@
         }
     ]
 }
+
 
 
 
