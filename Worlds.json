@@ -85,10 +85,10 @@
                 },
                 {
                     "ID": "wrld_66d68bb4-07c6-4cc5-9c40-f04920cd6a88",
-                    "Name": "(WIP)Mint",
+                    "Name": "(WIP)Infinity Blue",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
-                    "Description": "ミントグリーンをテーマにしたインフィニティプールと客室。製作途中です。",
+                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": false,
@@ -131,6 +131,7 @@
         }
     ]
 }
+
 
 
 
