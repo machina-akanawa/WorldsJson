@@ -88,10 +88,10 @@
                     "Name": "(WIP)Infinity Blue",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
-                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。Quest対応は調整中です",
                     "Platform": {
                         "PC": true,
-                        "Android": false,
+                        "Android": true,
                         "iOS": false
                     },
                     "ReleaseStatus": "private"
@@ -131,6 +131,7 @@
         }
     ]
 }
+
 
 
 
