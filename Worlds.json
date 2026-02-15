@@ -88,7 +88,7 @@
                     "Name": "(WIP)Blue Bliss Where We Can Breathe",
                     "RecommendedCapacity": 4,
                     "Capacity": 20,
-                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。Android版は調整中です。",
+                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": true,
@@ -131,6 +131,7 @@
         }
     ]
 }
+
 
 
 
