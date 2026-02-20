@@ -126,11 +126,25 @@
                         "iOS": false
                     },
                     "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_0bad9518-b774-485d-b92d-8df956e9dd97",
+                    "Name": "ノープランで作った部屋",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 4,
+                    "Description": "Blender練習用に作った部屋に家具を置いたもの。作者が家でよく聞いているLofi HipHopの動画が流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false12
+                    },
+                    "ReleaseStatus": "private"
                 }
             ]
         }
     ]
 }
+
 
 
 
