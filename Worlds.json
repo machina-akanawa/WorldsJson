@@ -136,7 +136,7 @@
                     "Platform": {
                         "PC": true,
                         "Android": true,
-                        "iOS": false12
+                        "iOS": false
                     },
                     "ReleaseStatus": "private"
                 }
@@ -144,6 +144,7 @@
         }
     ]
 }
+
 
 
 
