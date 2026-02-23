@@ -85,7 +85,7 @@
                 },
                 {
                     "ID": "wrld_66d68bb4-07c6-4cc5-9c40-f04920cd6a88",
-                    "Name": "(WIP)Blue Bliss Where We Can Breathe",
+                    "Name": "Blue Bliss Where We Can Breathe",
                     "RecommendedCapacity": 4,
                     "Capacity": 20,
                     "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
@@ -138,12 +138,26 @@
                         "Android": true,
                         "iOS": false
                     },
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_e114f7c9-fef4-4143-a63c-2ea694389522",
+                    "Name": "全部Blenderで作った部屋+α",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Blender練習用に作った部屋と家具。木のぬくもりに似合うコロコロしたLofi HipHopの動画が流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true,
+                        "iOS": false
+                    },
                     "ReleaseStatus": "private"
                 }
             ]
         }
     ]
 }
+
 
 
 
