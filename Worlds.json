@@ -145,7 +145,7 @@
                     "Name": "全部Blenderで作った部屋+α",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
-                    "Description": "Blender練習用に作った部屋と家具。木のぬくもりに似合うコロコロしたLofi HipHopの動画が流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
+                    "Description": "Blender練習用に作った部屋と家具。木のぬくもりに似合うLoFiカントリーの動画が流れています。ビデオプレーヤー、V睡ギミック、QvPenがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": true,
@@ -157,6 +157,7 @@
         }
     ]
 }
+
 
 
 
