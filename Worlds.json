@@ -95,6 +95,19 @@
                         "iOS": false
                     },
                     "ReleaseStatus": "private"
+                },
+                {
+                    "ID": "wrld_3383ac7e-fcb8-4780-b22a-8b801bd34215",
+                    "Name": "Goddess From Deep Sea Whose Eyes Weren't Orange",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "オレンジをテーマにした屋上と階下。製作中です。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "private"
                 }
             ]
         },
@@ -157,6 +170,7 @@
         }
     ]
 }
+
 
 
 
