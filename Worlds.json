@@ -155,7 +155,7 @@
                 },
                 {
                     "ID": "wrld_e114f7c9-fef4-4143-a63c-2ea694389522",
-                    "Name": "手作りの家具に囲まれた木のぬくもりルーム",
+                    "Name": "木のぬくもりルーム",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "Blender練習用に作った部屋と家具。素朴な温かさがあるLoFiカントリーの動画が流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
@@ -170,6 +170,7 @@
         }
     ]
 }
+
 
 
 
