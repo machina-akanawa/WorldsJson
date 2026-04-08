@@ -171,7 +171,7 @@
                     "Name": "Community Bar Erica",
                     "RecommendedCapacity": 4,
                     "Capacity": 4,
-                    "Description": "アットホームな隠れ家シーシャバー。会話の邪魔をしない音量のクラシックジャズが流れています。ビデオプレーヤー、QvPen、話題提供ギミックがあります。",
+                    "Description": "アットホームな隠れ家シーシャバー。会話の邪魔をしない音量のクラシックジャズが流れています。ビデオプレーヤー(プレイリスト/キューリスト)、QvPen、話題提供ギミックがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": false,
