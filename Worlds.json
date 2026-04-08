@@ -3,7 +3,7 @@
     "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "麻樹菜のワールド集-Colors",
+            "Category": "Colors",
             "Worlds": [
                 {
                     "ID": "wrld_00ba845a-601e-4ba0-9d09-e4fbc1da76ce",
@@ -88,7 +88,7 @@
                     "Name": "Blue Bliss Where We Can Breathe",
                     "RecommendedCapacity": 4,
                     "Capacity": 20,
-                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
+                    "Description": "青をテーマにしたインフィニティプールと客室。爽やかなラウンジとゆったりしたジャズ風BGMが流れています。ビデオプレーヤー、V睡ギミック、QvPen、ImageTabletがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": true,
@@ -112,7 +112,7 @@
             ]
         },
         {
-            "Category": "麻樹菜のワールド集-その他",
+            "Category": "その他",
             "Worlds": [
                 {
                     "ID": "wrld_bf01444d-baa5-44e7-8658-2aa58e68fa8f",
@@ -162,6 +162,19 @@
                     "Platform": {
                         "PC": true,
                         "Android": true,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "public"
+                },
+                {
+                    "ID": "wrld_c0c0991d-4fc4-4fb8-86ec-22baed37a765",
+                    "Name": "Community Bar Erica",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 4,
+                    "Description": "アットホームな隠れ家シーシャバー。会話の邪魔をしない音量のクラシックジャズが流れています。ビデオプレーヤー、QvPen、話題提供ギミックがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false,
                         "iOS": false
                     },
                     "ReleaseStatus": "private"
