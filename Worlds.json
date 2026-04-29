@@ -78,10 +78,10 @@
                     "Description": "白をテーマにした孤独の心象風景。寂しさに寄り添ってくれるヴィジュアル系や洋楽メタルが流れています。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
                     "Platform": {
                         "PC": true,
-                        "Android": true,
+                        "Android": false,
                         "iOS": false
                     },
-                    "ReleaseStatus": "private"
+                    "ReleaseStatus": "public"
                 },
                 {
                     "ID": "wrld_66d68bb4-07c6-4cc5-9c40-f04920cd6a88",
@@ -107,7 +107,7 @@
                         "Android": false,
                         "iOS": false
                     },
-                    "ReleaseStatus": "private"
+                    "ReleaseStatus": "public"
                 }
             ]
         },
@@ -122,7 +122,7 @@
                     "Description": "ヴィジュアル系バンドっぽい部屋。多種多様なヴィジュアル系バンドの曲を聴くことができます。ビデオプレーヤー(プレイリスト)、V睡ギミック、QvPenがあります。",
                     "Platform": {
                         "PC": true,
-                        "Android": true,
+                        "Android": false,
                         "iOS": false
                     },
                     "ReleaseStatus": "public"
@@ -171,7 +171,20 @@
                     "Name": "Community Bar Erica",
                     "RecommendedCapacity": 4,
                     "Capacity": 4,
-                    "Description": "アットホームな隠れ家シーシャバー。会話の邪魔をしない音量のクラシックジャズが流れています。ビデオプレーヤー(プレイリスト/キューリスト)、QvPen、話題提供ギミックがあります。",
+                    "Description": "アットホームな隠れ家シーシャバー。Community Bar Erica(ERICA.2551)のイベント用ワールドです。ビデオプレーヤー(プレイリスト/キューリスト)、QvPen、話題提供ギミックがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "private"
+                },
+                {
+                    "ID": "wrld_a66efefa-81db-45b5-be7a-f0ad3d48c4d5",
+                    "Name": "ヴィジュアル系を聴く部屋 For Event",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ヴィジュアル系を聴く部屋をヴィジュアル系を聴く会(VROCK.6878)のイベント用に改装したものです。ビデオプレーヤー(プレイリスト/キューリスト)、QvPen、タグマーカーがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": false,
