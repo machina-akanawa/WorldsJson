@@ -177,7 +177,7 @@
                         "Android": false,
                         "iOS": false
                     },
-                    "ReleaseStatus": "private"
+                    "ReleaseStatus": "public"
                 },
                 {
                     "ID": "wrld_a66efefa-81db-45b5-be7a-f0ad3d48c4d5",
@@ -185,6 +185,19 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "ヴィジュアル系を聴く部屋をヴィジュアル系を聴く会(VROCK.6878)のイベント用に改装したものです。ビデオプレーヤー(プレイリスト/キューリスト)、QvPen、タグマーカーがあります。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false,
+                        "iOS": false
+                    },
+                    "ReleaseStatus": "private"
+                },
+                {
+                    "ID": "wrld_a0f4223d-d1d1-465d-957b-ac7d55ee8c11",
+                    "Name": "Community Bar Erica 小集会場",
+                    "RecommendedCapacity": 7,
+                    "Capacity": 7,
+                    "Description": "都会の喧騒を離れたゆったりくつろげるシーシャカフェ。Community Bar Erica(ERICA.2551)の小集会用ワールドです。ビデオプレーヤー(キューリスト)、QvPenがあります。",
                     "Platform": {
                         "PC": true,
                         "Android": false,
